@@ -3,13 +3,32 @@
     "skill_group_number": 1,
     "youth_tumbling_skills": [
       {
-        "skill_name": "Jump full turn front roll (feet together)"
+        "skill_name": "Jump full turn front roll (feet together)",
+        "skill_level": "Attempted"
       },
       {
-        "skill_name": "Cartwheel"
+        "skill_name": "Cartwheel",
+        "skill_level": "Attempted"
       },
       {
-        "skill_name": "Bridge with straight legs"
+        "skill_name": "Bridge with straight legs",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Straddle roll",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Walk feet up to handstand",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "5 donkey kicks in a row",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Jump off block backwards knee-high landing in motorcycle",
+        "skill_level": "Attempted"
       },
     ]
   },
@@ -17,13 +36,147 @@
     "skill_group_number": 2,
     "youth_tumbling_skills": [
       {
-        "skill_name": "Knee cartwheels"
+        "skill_name": "Knee cartwheels",
+        "skill_level": "Attempted"
       },
       {
-        "skill_name": "Back roll"
+        "skill_name": "Back roll",
+        "skill_level": "Attempted"
       },
       {
-        "skill_name": "Dive roll onto the mat"
+        "skill_name": "Dive roll onto the mat",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Cartwheel on a line",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Round off",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Kick to handstand",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Tuck jump, half turn, straddle jump, half turn in a row",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Full turn",
+        "skill_level": "Attempted"
+      },
+    ]
+  },
+  {
+    "skill_group_number": 3,
+    "youth_tumbling_skills": [
+      {
+        "skill_name": "Knee round off",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Back bend",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Dive roll",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Round off, off the block",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Kick to handstand, hold 3 seconds",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Handstand fall into bridge",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Handstand fall to stomach with straight arms",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Backwards 5 donkey kicks in a row",
+        "skill_level": "Attempted"
+      },
+    ]
+  },
+  {
+    "skill_group_number": 4,
+    "youth_tumbling_skills": [
+      {
+        "skill_name": "Front roll jump 180 back roll",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Handstand fall to back on the mat",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Bridge foot on the block kickover",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Back roll to the front support on the rod floor",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Round off scoop to back arms up on the mat",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "5 dive rolls",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Round off onto the block",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Candlestick Straddle jump, 360 tuck, 180 pike jump, 180 dive rolls",
+        "skill_level": "Attempted"
+      },
+    ]
+  },
+  {
+    "skill_group_number": 5,
+    "youth_tumbling_skills": [
+      {
+        "skill_name": "Round off onto the block",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Front roll knee cartwheels",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "10 donkey kicks in a row",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Back walkover",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Front walkover",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Front tuck into the pit",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Round off backroll",
+        "skill_level": "Attempted"
+      },
+      {
+        "skill_name": "Handstand walking 3 steps",
+        "skill_level": "Attempted"
       },
     ]
   },
